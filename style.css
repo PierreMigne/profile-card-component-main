@@ -25,6 +25,7 @@
 }
 .bg-round {
     position: absolute;
+    transition: transform 1s ease-in;
 }
 .bg-round-top {
     top: -100px;
